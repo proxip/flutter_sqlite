@@ -7,12 +7,19 @@ Task running :
 5. buka kembali folder repo melalui vscode, pastikan tampilan "flutter doctor -v" memiliki tampilan seperti ini :
    
     [√] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
+   
     • Android SDK at C:\Users\proxi\AppData\Local\Android\sdk
+   
     • Platform android-34, build-tools 34.0.0
+   
     • Java binary at: C:\Program Files\Java\jdk-17\bin\java
+   
     • Java version Java(TM) SE Runtime Environment (build 17.0.13+10-LTS-268)
+   
     • All Android licenses accepted.
-    lalu lanjutkan pada nomor 7
+   
+    lalu lanjutkan pada nomor 6
+   
 7. flutter update
 8. flutter pub get
 9. flutter run

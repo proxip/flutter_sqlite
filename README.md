@@ -5,6 +5,7 @@ Task running :
 3. install jdk 17 
 4. setting dengan menggunakan command : flutter config --jdk-dir "C:\Program Files\Java\jdk-17" 
 5. buka kembali folder repo melalui vscode, pastikan tampilan "flutter doctor -v" memiliki tampilan seperti ini :
+   
     [√] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
     • Android SDK at C:\Users\proxi\AppData\Local\Android\sdk
     • Platform android-34, build-tools 34.0.0
